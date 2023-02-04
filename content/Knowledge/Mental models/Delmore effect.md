@@ -1,0 +1,5 @@
+---
+title: Delmore effect
+---
+
+ 

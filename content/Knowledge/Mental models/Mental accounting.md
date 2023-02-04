@@ -1,0 +1,5 @@
+---
+title: Mental accounting
+---
+
+ 

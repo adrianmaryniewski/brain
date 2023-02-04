@@ -1,0 +1,5 @@
+---
+title: Endowment effect
+---
+
+ 

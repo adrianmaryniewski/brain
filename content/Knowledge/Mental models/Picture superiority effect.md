@@ -1,0 +1,5 @@
+---
+title: Picture superiority effect
+---
+
+ 

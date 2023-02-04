@@ -1,0 +1,5 @@
+---
+title: Irration escalation
+---
+
+ 

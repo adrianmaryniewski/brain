@@ -1,0 +1,5 @@
+---
+title: Law of Triviality
+---
+
+ 

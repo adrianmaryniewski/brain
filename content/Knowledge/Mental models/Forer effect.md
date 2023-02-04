@@ -1,0 +1,5 @@
+---
+title: Forer effect
+---
+
+ 

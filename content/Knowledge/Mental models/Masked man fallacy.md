@@ -1,0 +1,5 @@
+---
+title: Masked man fallacy
+---
+
+ 

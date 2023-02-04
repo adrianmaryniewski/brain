@@ -1,0 +1,5 @@
+---
+title: Barnum effect
+---
+
+ 

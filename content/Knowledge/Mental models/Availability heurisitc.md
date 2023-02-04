@@ -1,0 +1,5 @@
+---
+title: Availability heurisitc
+---
+
+ 

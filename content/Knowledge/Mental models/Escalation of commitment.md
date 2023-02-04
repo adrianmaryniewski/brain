@@ -1,0 +1,5 @@
+---
+title: Escalation of commitment
+---
+
+ 
