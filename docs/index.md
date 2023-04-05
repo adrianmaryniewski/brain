@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "blog.maryniewski.pl"
   text: "Adrian Maryniewski's blog"
-  tagline: My great project tagline
+  tagline: The Tagline
   actions:
     - theme: brand
       text: Markdown Examples
