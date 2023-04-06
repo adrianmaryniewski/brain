@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/brain/',
+  base: '/',
   title: "blog.maryniewski.pl",
   description: "Adrian Maryniewski's blog",
   themeConfig: {
