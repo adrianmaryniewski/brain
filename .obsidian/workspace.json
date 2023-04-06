@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d881fa8e84893fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "123f1202d8530e27",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,11 +148,15 @@
   },
   "active": "123f1202d8530e27",
   "lastOpenFiles": [
-    "docs/CNAME",
-    "docs/markdown-examples.md",
+    "docs/Podstawy/Naglowki_HTTP.md",
+    "Untitled.md",
+    "docs/Podstawy/Nagłówki HTTP.md",
     "docs/api-examples.md",
-    "docs/new-article.md",
     "docs/index.md",
+    "docs/markdown-examples.md",
+    "docs/Podstawy",
+    "docs/new-article.md",
+    "docs/CNAME",
     "README.md"
   ]
 }

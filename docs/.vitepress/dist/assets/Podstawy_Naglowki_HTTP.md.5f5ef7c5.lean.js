@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as n,N as o}from"./chunks/framework.82ade74d.js";const k=JSON.parse('{"title":"Nagłówki HTTP","description":"","frontmatter":{},"headers":[],"relativePath":"Podstawy/Naglowki_HTTP.md"}'),i={name:"Podstawy/Naglowki_HTTP.md"},t=o("",60),r=[t];function s(p,l,c,y,w,d){return e(),n("div",null,r)}const m=a(i,[["render",s]]);export{k as __pageData,m as default};

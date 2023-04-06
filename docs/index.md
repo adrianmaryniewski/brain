@@ -11,8 +11,8 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Podstawy
+      link: /Podstawy/Naglowki_HTTP
 
 features:
   - title: Feature A

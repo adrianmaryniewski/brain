@@ -18,7 +18,7 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'New article', link: '/new-article' }
+          { text: 'Podstawy', link: '/Podstawy/Naglowki_HTTP' }
         ]
       }
     ],
