@@ -1,4 +1,5 @@
 1.Wprowadzenie
+
 Skoro trafiłeś do tego dokumentu, to znaczy, że ważne jest dla Ciebie bezpieczeństwo Twoich danych. Wiedz, że prowadząc działalność gospodarczą pod firmą
 
 Adrian Maryniewski Consulting, 
@@ -146,5 +147,9 @@ Zastrzegamy sobie możliwość zmiany niniejszej Polityki Prywatności w przypad
 Dążąc do zapewnienia jak najlepszego kontaktu w przedmiocie ochrony danych osobowych umożliwiamy kontakt listowny (pocztą) lub kontakt e-mail z wykorzystaniem poniższych danych kontaktowych:
 
 Poczta: Adrian Maryniewski Consulting,\
-3 Maja 17/13, 82-500 Kwidzyn.\
+
+3 Maja 17/13, 
+
+82-500 Kwidzyn.\
+
 E-mail: adrian@maryniewski.pl
