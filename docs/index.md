@@ -8,18 +8,18 @@ hero:
   tagline: The Tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Start
+      link: /gdzie-cwiczyc-testowanie
     - theme: alt
       text: Podstawy
-      link: /Podstawy/Naglowki_HTTP
+      link: /podstawy/za-co-placa-testerom
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Przebranżowienie
+    details: Dowiedz się, jak możesz skutecznie wykorzystać swoje dotychczasowe doświadczenia i umiejętności, aby przejść do roli testera oprogramowania. Znajdziesz tu praktyczne porady i kursy.
+  - title: Trendy i Narzędzia
+    details: Poznaj najnowsze trendy w testowaniu oprogramowania, od automatyzacji po testowanie bezpieczeństwa. Dowiedz się, jakie narzędzia są obecnie na topie i jak je skutecznie wykorzystać w swojej pracy.
+  - title: Newsletter
+    details: Zapisz się na nasz newsletter, aby regularnie otrzymywać najnowsze wiadomości, porady i zasoby związane z testowaniem oprogramowania. To idealne źródło wiedzy dla wszystkich, którzy planują karierę w tym sektorze.
 ---
 

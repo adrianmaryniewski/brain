@@ -1,5 +1,5 @@
 # Nagłówki HTTP
->Notatki z książki "Bezpieczeństwo Aplikacji Webowych (Praca zbiorowa pod redakcją Michała Sajdaka)"
+>Notatki z książki "Bezpieczeństwo Aplikacji Webowych"
 
 ## Nagłówki HTTP w kontekście bezpieczeństwa
 
