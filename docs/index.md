@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "blog.maryniewski.pl"
-  text: "Przejdź ścieżkę od "zera" do profesjonalnego testera."
+  text: "Przejdź ścieżkę od zera do profesjonalnego testera."
   tagline: Odkrywaj, ucz się i rozwijaj razem ze mną.
   actions:
     - theme: brand
