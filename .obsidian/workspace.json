@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "123f1202d8530e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab1f5ebcd9ef53b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/podstawy/gdzie-cwiczyc-testowanie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1dcc7dc84a7f6ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/poziomy-i-typy-testow.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,13 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "123f1202d8530e27",
+  "active": "e1dcc7dc84a7f6ea",
   "lastOpenFiles": [
-    "docs/podstawy/za-co-placa-testerom.md",
-    "docs/api-examples.md",
-    "docs/index.md",
-    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
     "docs/markdown-examples.md",
+    "docs/index.md",
+    "docs/api-examples.md",
+    "README.md",
+    "docs/podstawy/za-co-placa-testerom.md",
+    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
     "docs/podstawy/wstep-do-testowania.md",
     "docs/podstawy/poziomy-i-typy-testow.md",
     "docs/podstawy/sdlc.md",
@@ -207,7 +184,6 @@
     "docs/Podstawy/Nagłówki HTTP.md",
     "docs/podstawy",
     "docs/new-article.md",
-    "docs/CNAME",
-    "README.md"
+    "docs/CNAME"
   ]
 }

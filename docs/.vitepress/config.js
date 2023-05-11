@@ -4,21 +4,22 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   title: "blog.maryniewski.pl",
-  description: "Adrian Maryniewski's blog",
+  description: "Przejdź ścieżkę od zera do profesjonalnego testera.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Strona Główna', link: '/index' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '----  Rozwiń  ----',
+        collapsible: true,
+        collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Podstawy', link: '/Podstawy/Naglowki_HTTP' }
+          { text: 'Witaj!', link: '/index' },
+          { text: 'Gdzie ćwiczyć testowanie?', link: '/podstawy/gdzie-cwiczyc-testowanie' },
+          { text: 'Za co płacą testerom?', link: '/podstawy/za-co-placa-testerom' }
         ]
       }
     ],

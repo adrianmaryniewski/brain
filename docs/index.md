@@ -1,25 +1,22 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+![profilowe.png](https://dsc.cloud/da9e07/profilowe.png)
 
-hero:
-  name: "blog.maryniewski.pl"
-  text: "Przejdź ścieżkę od zera do profesjonalnego testera."
-  tagline: Odkrywaj, ucz się i rozwijaj razem ze mną.
-  actions:
-    - theme: brand
-      text: Start
-      link: /podstawy/gdzie-cwiczyc-testowanie
-    - theme: alt
-      text: Podstawy
-      link: /podstawy/za-co-placa-testerom
+To miejsce, w którym dzielę się wszystkim, co wiem na temat testowania oprogramowania. 
 
-features:
-  - title: Przebranżowienie
-    details: Dowiedz się, jak możesz skutecznie wykorzystać swoje dotychczasowe doświadczenia i umiejętności, aby przejść do roli testera oprogramowania. Znajdziesz tu praktyczne porady i kursy.
-  - title: Trendy i Narzędzia
-    details: Jak zacząć karierę w testowaniu oprogramowania? Jestem tutaj, aby Ci pomóc. Porady, narzędzia i najlepsze praktyki - wszystko, co pomoże Ci stać się profesjonalnym testerem.
-  - title: Newsletter
-    details: Zapisz się na nasz newsletter, aby regularnie otrzymywać lekcje. Nie ryzykujesz wiele - pierwszy miesiąc (12 lekcji + 4 konsultacje) jest darmowy. Nie ma chęci współpracy? Rozstajemy się w zgodzie.
----
+Dołącz do newslettera, aby otrzymywać regularnie lekcje.
+
+## Najważniejsze tematy:
+
+- Podstawy technologii
+- Testowanie manualne
+- Współpraca w zespole
+- Automatyzacja testów
+- Bezpieczeństwo aplikacji
+- Testowanie API
+- Testowanie aplikacji webowych
+
+## Gdzie możesz mnie znaleźć?
+
+- [LinkedIn](https://www.linkedin.com/in/adrian-maryniewski-8a9055121/)
+- [Twitter](https://twitter.com/amaryniewski)
+- [email](mailto:adrian@maryniewski.pl)
 
