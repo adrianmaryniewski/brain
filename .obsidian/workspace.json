@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "847225e8df515d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/podstawy/za-co-placa-testerom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "474674f1d8d6d0f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/podstawy/za-co-placa-testerom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab1f5ebcd9ef53b5",
             "type": "leaf",
             "state": {
@@ -216,17 +192,17 @@
   },
   "active": "123f1202d8530e27",
   "lastOpenFiles": [
-    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
+    "docs/podstawy/za-co-placa-testerom.md",
+    "docs/api-examples.md",
     "docs/index.md",
+    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
     "docs/markdown-examples.md",
     "docs/podstawy/wstep-do-testowania.md",
-    "docs/podstawy/za-co-placa-testerom.md",
     "docs/podstawy/poziomy-i-typy-testow.md",
     "docs/podstawy/sdlc.md",
     "docs/podstawy/zasady-efektywnego-testowania.md",
     "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
     "docs/podstawy/naglowki-http.md",
-    "docs/api-examples.md",
     "Untitled.md",
     "docs/Podstawy/Nagłówki HTTP.md",
     "docs/podstawy",
