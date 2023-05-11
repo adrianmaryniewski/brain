@@ -8,7 +8,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Strona Główna', link: '/index' }
+      { text: 'Strona Główna', link: '/index' },
+      { text: 'Polityka prywatności', link: '/dokumenty/polityka-prywatnosci' }
     ],
 
     sidebar: [

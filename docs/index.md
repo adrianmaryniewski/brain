@@ -2,7 +2,7 @@
 
 To miejsce, w którym dzielę się wszystkim, co wiem na temat testowania oprogramowania. 
 
-Dołącz do newslettera, aby otrzymywać regularnie lekcje.
+Dołącz do newslettera, aby otrzymywać regularnie lekcje. Dołączając do newslettera, zgadzasz się z [Polityką prywatności]()
 
 ## Najważniejsze tematy:
 
