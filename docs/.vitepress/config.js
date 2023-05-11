@@ -19,7 +19,11 @@ export default defineConfig({
         items: [
           { text: 'Witaj!', link: '/index' },
           { text: 'Gdzie ćwiczyć testowanie?', link: '/podstawy/gdzie-cwiczyc-testowanie' },
-          { text: 'Za co płacą testerom?', link: '/podstawy/za-co-placa-testerom' }
+          { text: 'Za co płacą testerom?', link: '/podstawy/za-co-placa-testerom' },
+          { text: 'Rola testerów w zależności od kompetencji?', link: '/podstawy/rola-testerow-w-zaleznosci-od-kompetencji' },
+          { text: 'SDLC', link: '/podstawy/sdlc' },
+          { text: 'Zasady efektywnego testowania', link: '/podstawy/zasady-efektywnego-testowania' },
+          { text: 'Nagłówki HTTP', link: '/podstawy/naglowki-http' },
         ]
       }
     ],
