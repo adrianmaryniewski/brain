@@ -4,6 +4,8 @@ To miejsce, w którym dzielę się wszystkim, co wiem na temat testowania oprogr
 
 Dołącz do newslettera, aby otrzymywać regularnie lekcje. Dołączając do newslettera, zgadzasz się z [Polityką prywatności](/dokumenty/polityka-prywatnosci.md).
 
+<div class="ml-embedded" data-form="RwP5Ii"></div>
+
 ## Najważniejsze tematy:
 
 - Podstawy technologii
