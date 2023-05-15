@@ -3,7 +3,7 @@
 <div class="main-paragraph">To miejsce, w którym dzielę się wszystkim, co wiem na temat testowania oprogramowania.</div>
 <div class="main-paragraph">Dołącz do newslettera, aby otrzymywać regularnie lekcje.</div>
 <br>
-<div class="main-paragraph">Pakiet darmowych lekcji różni się tym, że nie ma nic ponad to. Kursant otrzymuje wiedzę i może przerabiać ją we własnym zakresie. W pakiecie płatnym są dodatkowo konsultacje, testy wiedzy, prowadzenie kursanta "krok po kroku" do nowej pracy.</div>
+<div class="main-paragraph">Pakiet darmowych lekcji różni się tym, że nie ma nic ponad to. Jako kursant otrzymujesz całą wiedzę i możesz przerabiać ją we własnym zakresie. W pakiecie płatnym są dodatkowo konsultacje, testy wiedzy, prowadzenie Cię "krok po kroku" do nowej pracy.</div>
 
 <br>
 <br>
