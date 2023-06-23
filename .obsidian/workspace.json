@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/poziomy-i-typy-testow.md",
+                "file": "docs/podstawy/zasady-efektywnego-testowania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2975ee61cbad9f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/podstawy/za-co-placa-testerom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/podstawy/poziomy-i-typy-testow.md",
+                "file": "docs/podstawy/za-co-placa-testerom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/podstawy/poziomy-i-typy-testow.md",
+                "file": "docs/podstawy/za-co-placa-testerom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/podstawy/poziomy-i-typy-testow.md"
+                "file": "docs/podstawy/za-co-placa-testerom.md"
               }
             }
           }
@@ -154,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa0db8e28f781cca",
+  "active": "2975ee61cbad9f6f",
   "lastOpenFiles": [
-    "docs/podstawy/zasady-efektywnego-testowania.md",
-    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
     "docs/podstawy/proces-zglaszania-bledow.md",
+    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+    "docs/podstawy/sdlc.md",
+    "docs/podstawy/za-co-placa-testerom.md",
+    "docs/podstawy/zasady-efektywnego-testowania.md",
+    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
     "docs/podstawy/poziomy-i-typy-testow.md",
     "docs/podstawy/naglowki-http.md",
-    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
-    "docs/podstawy/za-co-placa-testerom.md",
     "docs/index.md",
-    "docs/podstawy/sdlc.md",
     "docs/biznes/side-hustle-krok-pierwszy.md",
     "docs/biznes",
     "docs/dokumenty/polityka-prywatnosci.md",

@@ -1,6 +1,6 @@
 # Zasady Efektywnego Testowania - Porady dla początkujących testerów
 
-# Wprowadzenie
+## Wprowadzenie
 
 W dzisiejszym artykule chciałbym podzielić się z Wami dwiema kluczowymi zasadami, które pomogą Wam stać się bardziej efektywnymi testerami. Komunikacja odgrywa tu kluczową rolę, a zadawanie pytań na początku pracy jest niezwykle istotne. Przeanalizujmy te zasady bliżej.
 

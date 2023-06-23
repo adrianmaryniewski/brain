@@ -36,5 +36,6 @@ Dobrze zgłoszone błędy przez testerów oprogramowania są kluczowe dla skutec
 4. Jakie narzędzia mogą pomóc w zgłaszaniu błędów?
 5. Jakie są najlepsze praktyki zgłaszania błędów przez testera oprogramowania?
 
-Codziennie tworzę nowe materiały. 
+Codziennie tworzę nowe materiały.
+
 Po więcej informacji zapraszam na mój mini-kurs: https://podstawytestowania.pl/
