@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
+                "file": "docs/podstawy/proces-zglaszania-bledow.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
+                "file": "docs/podstawy/proces-zglaszania-bledow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
+                "file": "docs/podstawy/proces-zglaszania-bledow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md"
+                "file": "docs/podstawy/proces-zglaszania-bledow.md"
               }
             }
           }
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa0db8e28f781cca",
+  "active": "ad29aa593cf3dcf9",
   "lastOpenFiles": [
     "docs/podstawy/zasady-efektywnego-testowania.md",
-    "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
+    "docs/podstawy/proces-zglaszania-bledow.md",
     "docs/biznes/side-hustle-krok-pierwszy.md",
     "docs/index.md",
     "docs/biznes",
