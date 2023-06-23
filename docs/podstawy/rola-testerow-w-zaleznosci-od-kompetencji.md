@@ -17,4 +17,4 @@ Bardzo dobry tester, na trzecim poziomie, jest na tyle kompetentny, że jego pra
 Podsumowując, sukces w pracy testera zależy od umiejętnego planowania, priorytetyzacji i przede wszystkim od myślenia. Jak mówi zasada Pareto, 80% użytkowników korzysta tylko z 20% funkcjonalności systemu. Skupmy się więc na tych 20% i sukces jest gwarantowany. Pamiętajmy jednak, że niezależnie od poziomu, na którym się znajdujemy, zawsze jest miejsce na rozwój i poprawę. Testerzy, niezależnie od stopnia zaawansowania, powinni dążyć do ciągłego doskonalenia swoich umiejętności i kształtowania proaktywnego podejścia do swojej roli. Dopiero wtedy mogą skutecznie przyczynić się do poprawy jakości produktu i sukcesu całego projektu. Pamiętajmy, że kluczem do sukcesu jest nie tylko umiejętność wykonywania testów, ale także myślenia i komunikacji - to one naprawdę czynią różnicę.
 
 Codziennie tworzę nowe materiały. 
-Po więcej informacji zapraszam na mój mini-kurs: https://www.podstawytestowania.pl/
+Po więcej informacji zapraszam na mój mini-kurs: https://podstawytestowania.pl/

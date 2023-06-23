@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+                "file": "docs/podstawy/poziomy-i-typy-testow.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+                "file": "docs/podstawy/poziomy-i-typy-testow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+                "file": "docs/podstawy/poziomy-i-typy-testow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md"
+                "file": "docs/podstawy/poziomy-i-typy-testow.md"
               }
             }
           }
@@ -156,22 +156,22 @@
   },
   "active": "aa0db8e28f781cca",
   "lastOpenFiles": [
-    "docs/podstawy/proces-zglaszania-bledow.md",
-    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
     "docs/podstawy/zasady-efektywnego-testowania.md",
-    "docs/biznes/side-hustle-krok-pierwszy.md",
+    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+    "docs/podstawy/proces-zglaszania-bledow.md",
+    "docs/podstawy/poziomy-i-typy-testow.md",
+    "docs/podstawy/naglowki-http.md",
+    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
+    "docs/podstawy/za-co-placa-testerom.md",
     "docs/index.md",
+    "docs/podstawy/sdlc.md",
+    "docs/biznes/side-hustle-krok-pierwszy.md",
     "docs/biznes",
     "docs/dokumenty/polityka-prywatnosci.md",
     "docs/markdown-examples.md",
     "docs/api-examples.md",
     "README.md",
-    "docs/podstawy/za-co-placa-testerom.md",
-    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
     "docs/podstawy/wstep-do-testowania.md",
-    "docs/podstawy/poziomy-i-typy-testow.md",
-    "docs/podstawy/sdlc.md",
-    "docs/podstawy/naglowki-http.md",
     "Untitled.md",
     "docs/Podstawy/Nagłówki HTTP.md",
     "docs/podstawy",

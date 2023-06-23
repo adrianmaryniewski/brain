@@ -36,3 +36,6 @@ Tak, nawet proste aplikacje mogą mieć wiele elementów do przetestowania, dlat
 
 **5. Jaką masz radę na koniec?**
 Staraj się być aktywnym i zaangażowanym testerem, zawsze zadawaj pytania na początku pracy i nie bój się prosić o dodatkowe informacje, jeśli czegoś nie rozumiesz.
+
+Codziennie tworzę nowe materiały. 
+Po więcej informacji zapraszam na mój mini-kurs: https://podstawytestowania.pl/
