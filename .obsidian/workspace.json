@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow.md",
+                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow.md",
+                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow.md",
+                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/podstawy/proces-zglaszania-bledow.md"
+                "file": "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md"
               }
             }
           }
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad29aa593cf3dcf9",
+  "active": "aa0db8e28f781cca",
   "lastOpenFiles": [
-    "docs/podstawy/zasady-efektywnego-testowania.md",
     "docs/podstawy/proces-zglaszania-bledow.md",
+    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+    "docs/podstawy/zasady-efektywnego-testowania.md",
     "docs/biznes/side-hustle-krok-pierwszy.md",
     "docs/index.md",
     "docs/biznes",
@@ -170,7 +171,6 @@
     "docs/podstawy/wstep-do-testowania.md",
     "docs/podstawy/poziomy-i-typy-testow.md",
     "docs/podstawy/sdlc.md",
-    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
     "docs/podstawy/naglowki-http.md",
     "Untitled.md",
     "docs/Podstawy/Nagłówki HTTP.md",
