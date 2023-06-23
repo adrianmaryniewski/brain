@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1dcc7dc84a7f6ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa0db8e28f781cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/sdlc.md",
+                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md"
               }
             }
           }
@@ -166,10 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1dcc7dc84a7f6ea",
+  "active": "aa0db8e28f781cca",
   "lastOpenFiles": [
-    "docs/dokumenty/polityka-prywatnosci.md",
+    "docs/podstawy/zasady-efektywnego-testowania.md",
+    "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
+    "docs/biznes/side-hustle-krok-pierwszy.md",
     "docs/index.md",
+    "docs/biznes",
+    "docs/dokumenty/polityka-prywatnosci.md",
     "docs/markdown-examples.md",
     "docs/api-examples.md",
     "README.md",
@@ -178,7 +170,6 @@
     "docs/podstawy/wstep-do-testowania.md",
     "docs/podstawy/poziomy-i-typy-testow.md",
     "docs/podstawy/sdlc.md",
-    "docs/podstawy/zasady-efektywnego-testowania.md",
     "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
     "docs/podstawy/naglowki-http.md",
     "Untitled.md",
