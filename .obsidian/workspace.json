@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/podstawy/za-co-placa-testerom.md",
+                "file": "docs/podstawy/techniki-testowania-cz-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/podstawy/za-co-placa-testerom.md",
+                "file": "docs/podstawy/techniki-testowania-cz-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/podstawy/za-co-placa-testerom.md",
+                "file": "docs/podstawy/techniki-testowania-cz-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/podstawy/za-co-placa-testerom.md"
+                "file": "docs/podstawy/techniki-testowania-cz-1.md"
               }
             }
           }
@@ -156,14 +156,16 @@
   },
   "active": "2975ee61cbad9f6f",
   "lastOpenFiles": [
+    "docs/podstawy/sdlc.md",
+    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
+    "docs/podstawy/proces-zglaszania-bledow-w-5-krokach.md",
+    "docs/podstawy/poziomy-i-typy-testow.md",
     "docs/podstawy/zasady-efektywnego-testowania.md",
+    "docs/podstawy/techniki-testowania-cz-1.md",
+    "docs/podstawy/naglowki-http.md",
+    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
     "docs/podstawy/za-co-placa-testerom.md",
     "docs/podstawy/proces-zglaszania-bledow.md",
-    "docs/podstawy/rola-testerow-w-zaleznosci-od-kompetencji.md",
-    "docs/podstawy/sdlc.md",
-    "docs/podstawy/gdzie-cwiczyc-testowanie.md",
-    "docs/podstawy/poziomy-i-typy-testow.md",
-    "docs/podstawy/naglowki-http.md",
     "docs/index.md",
     "docs/biznes/side-hustle-krok-pierwszy.md",
     "docs/biznes",

@@ -1,6 +1,6 @@
 # Poziomy i Typy Testów: Kluczowe Informacje dla Testerów
 
-W dzisiejszym poście skupimy się na poziomach i typach testów, które są kluczowymi informacjami dla każdego testera. Zrozumienie tych pojęć jest nie tylko ważne, ale wręcz konieczne, aby sensownie rozmawiać o procesie testowania. Chciałbym podkreślić, że choć można łatwo znaleźć definicje poziomów i typów testów w Internecie, istotniejsze jest, aby zrozumieć relacje między nimi.
+W dzisiejszym artykule skupimy się na poziomach i typach testów, które są kluczowymi informacjami dla każdego testera. Zrozumienie tych pojęć jest nie tylko ważne, ale wręcz konieczne, aby sensownie rozmawiać o procesie testowania. Chciałbym podkreślić, że choć można łatwo znaleźć definicje poziomów i typów testów w Internecie, istotniejsze jest, aby zrozumieć relacje między nimi.
 
 Często podczas rozmów rekrutacyjnych pytanie o poziomy i typy testów jest jednym z pierwszych, które pojawiają się, szczególnie w przypadku kandydatów posiadających certyfikat ISTQB.
 
@@ -8,13 +8,21 @@ Wielu kandydatów, mających ten certyfikat, odpowiedziało na pytanie o rodzaje
 
 Na początek, istnieją cztery podstawowe poziomy testów, które powinniśmy omówić:
 
-1. **Testy jednostkowe (Unit Testy)**: Testy jednostkowe skupiają się na najmniejszych, atomowych częściach systemu, takich jak pojedyncze funkcje kodu lub ekrany. W różnych branżach i technologiach definicja "jednostki" może się różnić, ale zawsze chodzi o testowanie najmniejszych składowych systemu.
+### 1. Testy jednostkowe (Unit Testy)
 
-2. **Testy integracyjne**: Testy integracyjne są następnym poziomem, gdzie sprawdzamy, jak te małe "jednostki" współdziałają ze sobą. Skupiamy się na interfejsach tych jednostek, sprawdzając, czy są kompatybilne.
+Testy jednostkowe skupiają się na najmniejszych, atomowych częściach systemu, takich jak pojedyncze funkcje kodu lub ekrany. W różnych branżach i technologiach definicja "jednostki" może się różnić, ale zawsze chodzi o testowanie najmniejszych składowych systemu.
 
-3. **Testy systemowe (End-to-End)**: Na tym poziomie mamy już cały system zintegrowany i sprawdzamy, czy możemy przetestować cały proces od początku do końca.
+### 2. Testy integracyjne
 
-4. **Testy akceptacyjne**: Są to testy, które zazwyczaj wykonuje zamawiający - nie firma dostarczająca oprogramowanie, ale ta, która je kupuje. W testach akceptacyjnych sprawdzamy, czy system rzeczywiście spełnia swoje zadanie.
+Testy integracyjne są następnym poziomem, gdzie sprawdzamy, jak te małe "jednostki" współdziałają ze sobą. Skupiamy się na interfejsach tych jednostek, sprawdzając, czy są kompatybilne.
+
+### 3. Testy systemowe (End-to-End)
+
+Na tym poziomie mamy już cały system zintegrowany i sprawdzamy, czy możemy przetestować cały proces od początku do końca.
+
+### 4. Testy akceptacyjne
+
+Są to testy, które zazwyczaj wykonuje zamawiający - nie firma dostarczająca oprogramowanie, ale ta, która je kupuje. W testach akceptacyjnych sprawdzamy, czy system rzeczywiście spełnia swoje zadanie.
 
 Ważne jest, aby rozpocząć rozmowę o rodzajach testów od omówienia tych czterech poziomów, ponieważ są one podstawą dla każdego procesu testowania. Zawsze zaczynamy od najmniejszych jednostek (testy jednostkowe), przechodząc przez ich integrację (testy integracyjne), sprawdzanie całego systemu (testy systemowe), aż do ostatecznej akceptacji (testy akceptacyjne). Te poziomy testów są stosowane praktycznie w każdej firmie programistycznej.
 
@@ -24,16 +32,54 @@ Podczas tworzenia oprogramowania zaczynamy od najmniejszych jednostek - fragment
 
 Zrozumienie tych poziomów i ich związku z procesem tworzenia oprogramowania jest kluczowe dla efektywnego i sensownego testowania. W kolejnym wpisie przejdziemy do omówienia różnych typów testów, które możemy przeprowadzać na każdym z tych poziomów.
 
-Zrozumienie poziomów testów jest kluczowe, ale to tylko część obrazu. Każdy z tych poziomów testów może obejmować różne typy testów. Niezależnie od tego, czy testujemy pojedynczą jednostkę kodu, czy cały system, mamy do dyspozycji wiele różnych technik i podejść testowych, które pomogą nam upewnić się, że nasze oprogramowanie działa prawidłowo.
 
-1. **Testy funkcjonalne** - to najbardziej podstawowy typ testu, który sprawdza, czy konkretna funkcja lub zestaw funkcji działa poprawnie. Możemy przeprowadzać testy funkcjonalne na każdym poziomie - od testów jednostkowych po testy akceptacyjne.
+## Różne typy testów
 
-2. **Testy wydajnościowe** - te testy są szczególnie ważne na poziomie testów systemowych, kiedy to już mamy do czynienia z całą, zintegrowaną aplikacją. Testy wydajnościowe sprawdzają, jak system radzi sobie pod obciążeniem, np. jak szybko strony się ładują czy ile użytkowników jednocześnie może korzystać z aplikacji.
+Testowanie oprogramowania jest nieodłącznym elementem procesu tworzenia aplikacji. Aby upewnić się, że nasze oprogramowanie działa prawidłowo, musimy przeprowadzić różne typy testów. Każdy z tych testów ma swoje unikalne cechy i cel. W tym artykule omówimy kilka podstawowych typów testów, które możemy przeprowadzać na różnych poziomach.
 
-3. **Testy bezpieczeństwa** - mają na celu sprawdzenie, czy system jest odporny na różnego rodzaju ataki i czy chroni dane użytkowników. Podobnie jak testy wydajnościowe, testy bezpieczeństwa są szczególnie ważne na poziomie testów systemowych.
+### 1. Testy jednostkowe
 
-4. **Testy użyteczności** - te testy koncentrują się na doświadczeniu użytkownika i sprawdzają, czy interfejs jest intuicyjny i łatwy w użyciu. Testy użyteczności są często przeprowadzane na poziomie testów akceptacyjnych, gdy ostateczny produkt jest oceniany przez rzeczywistych użytkowników.
+Testy jednostkowe są najbardziej podstawowym typem testu. Polegają na sprawdzeniu, czy poszczególne jednostki kodu, takie jak funkcje czy metody, działają poprawnie. Testy jednostkowe są zwykle pisane przez programistów i sprawdzają, czy poszczególne fragmenty kodu wykonują się zgodnie z oczekiwaniami.
 
-Wreszcie, ważne jest, aby zrozumieć, że różne typy testów mogą i powinny być stosowane na różnych poziomach testów. Dla przykładu, testy funkcjonalne mogą być przeprowadzane zarówno na poziomie jednostkowym, jak i systemowym. Podobnie, testy bezpieczeństwa mogą obejmować zarówno testowanie indywidualnych komponentów kodu, jak i całego systemu.
+### 2. Testy integracyjne
 
-Podsumowując, zrozumienie zarówno poziomów, jak i typów testów, jest kluczowe dla każdego testera. Pozwala to na lepsze zrozumienie procesu testowania i efektywne wykorzystanie dostępnych narzędzi i technik. W przyszłych wpisach będziemy się zagłębiać w poszczególne typy testów, omawiając ich zastosowania, techniki i najlepsze praktyki.
+Testy integracyjne sprawdzają, czy różne komponenty oprogramowania współpracują ze sobą poprawnie. Polegają na testowaniu integracji między modułami, serwisami lub systemami. Celem tych testów jest upewnienie się, że całość działa zgodnie z oczekiwaniami, a poszczególne komponenty są ze sobą kompatybilne.
+
+### 3. Testy systemowe
+
+Testy systemowe są przeprowadzane na już zintegrowanym systemie. Ich celem jest sprawdzenie, czy cała aplikacja działa zgodnie z wymaganiami i spełnia oczekiwania użytkowników. Testy systemowe mogą obejmować różne aspekty, takie jak funkcjonalność, wydajność, bezpieczeństwo i użyteczność.
+
+### 4. Testy akceptacyjne
+
+Testy akceptacyjne są przeprowadzane przez klienta lub użytkownika końcowego, aby ocenić, czy oprogramowanie spełnia jego oczekiwania i wymagania. Celem tych testów jest upewnienie się, że oprogramowanie jest gotowe do użycia i spełnia wszystkie ustalone kryteria akceptacji.
+
+### 5. Testy wydajnościowe
+
+Testy wydajnościowe sprawdzają, jak dobrze nasze oprogramowanie radzi sobie pod względem wydajności i skalowalności. Celem tych testów jest ocena, jak szybko i efektywnie aplikacja działa podczas różnych obciążeń. Testy wydajnościowe mogą obejmować sprawdzanie czasu odpowiedzi, obciążenia serwera czy zużycia zasobów.
+
+### 6. Testy bezpieczeństwa
+
+Testy bezpieczeństwa mają na celu sprawdzenie, czy nasze oprogramowanie jest odporne na ataki i czy chroni poufne dane. Polegają na identyfikowaniu potencjalnych luk w zabezpieczeniach i próbach ich wykorzystania. Testy bezpieczeństwa mogą obejmować sprawdzanie podatności na ataki typu SQL Injection, Cross-Site Scripting (XSS) czy ataki typu Denial of Service (DoS).
+
+### 7. Testy użyteczności
+
+Testy użyteczności sprawdzają, jak łatwe i intuicyjne jest korzystanie z naszego oprogramowania. Celem tych testów jest ocena, czy interfejs użytkownika jest czytelny, czy funkcje są łatwe do znalezienia i czy użytkownicy mogą wygodnie poruszać się po aplikacji. Testy użyteczności mogą obejmować badania użytkowników, analizę interfejsu czy testy ergonomii.
+
+To tylko kilka przykładów typów testów, które możemy przeprowadzać na różnych poziomach. Istnieje wiele innych technik i podejść testowych, które można zastosować w zależności od potrzeb i charakterystyki projektu.
+
+W kolejnym artykule omówimy bardziej szczegółowo różne typy testów i przedstawimy przykłady ich zastosowania na poszczególnych poziomach.
+
+
+## Podsumowanie
+
+Testowanie oprogramowania jest nieodłącznym elementem procesu tworzenia aplikacji. Różne typy testów pozwalają nam sprawdzić różne aspekty oprogramowania, takie jak funkcjonalność, wydajność, bezpieczeństwo i użyteczność. Przeprowadzanie odpowiednich testów na różnych poziomach pozwala nam upewnić się, że nasze oprogramowanie działa poprawnie i spełnia oczekiwania użytkowników.
+
+## Najczęściej zadawane pytania
+
+1. Jakie są inne typy testów, których nie omówiono w artykule?
+2. Jakie są najważniejsze cechy testów jednostkowych?
+3. Jakie są główne cele testów integracyjnych?
+4. Jakie są najważniejsze aspekty sprawdzane podczas testów wydajnościowych?
+5. Jakie są podstawowe metody testowania bezpieczeństwa oprogramowania?
+
+Zadaj pytanie, jeśli masz jakiekolwiek wątpliwości lub chcesz uzyskać więcej informacji na temat testów oprogramowania.

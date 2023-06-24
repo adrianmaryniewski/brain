@@ -1,6 +1,5 @@
 # Nagłówki HTTP
 >Notatki z książki "Bezpieczeństwo Aplikacji Webowych"
-
 ## Nagłówki HTTP w kontekście bezpieczeństwa
 
 W tym rozdziale poznamy interesujące nagłówki HTTP, które mogą pomóc w zwiększeniu bezpieczeństwa aplikacji. Dowiedzieliśmy się również, jak napastnicy mogą próbować je obejść. Nagłówki definiowane są poprzez podanie nazwy i wartości oddzielone znakiem dwukropka. Istnieje wiele różnych nagłówków, których zastosowanie zależy od kreatywności twórcy aplikacji. Najpopularniejsze z nich to te odpowiadające za uwierzytelnianie, pamięć tymczasową, bezpieczeństwo, kodowanie, zakres, pobieranie zasobów, przekierowania, akcje po stronie serwera, WebSockety i zarządzanie połączeniem.
