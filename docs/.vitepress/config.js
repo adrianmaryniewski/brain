@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   title: "blog.maryniewski.pl",
-  description: "Przejdź ścieżkę od zera do profesjonalnego testera.",
+  description: "Wszystko, czego się uczę.",
   head: [
     ['script', {}, `
       (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
