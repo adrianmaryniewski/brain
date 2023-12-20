@@ -23,19 +23,34 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '----  Rozwiń  ----',
+        text: 'Strona główna',
         collapsible: true,
         collapsed: true,
         items: [
           { text: 'Witaj!', link: '/index' },
+        ]
+      },
+      {
+        text: 'Podstawy',
+        collapsible: true,
+        collapsed: true,
+        items: [
           { text: 'Gdzie ćwiczyć testowanie?', link: '/podstawy/gdzie-cwiczyc-testowanie' },
           { text: 'Za co płacą testerom?', link: '/podstawy/za-co-placa-testerom' },
           { text: 'Rola testerów w zależności od kompetencji.', link: '/podstawy/rola-testerow-w-zaleznosci-od-kompetencji' },
           { text: 'SDLC', link: '/podstawy/sdlc' },
           { text: 'Zasady efektywnego testowania', link: '/podstawy/zasady-efektywnego-testowania' },
           { text: 'Proces zgłaszania błędów w 5 krokach', link: '/podstawy/proces-zglaszania-bledow-w-5-krokach' },
-          { text: 'Nagłówki HTTP', link: '/websecurity/naglowki-http' },
           { text: 'Techniki testowania cz. 1', link: '/podstawy/techniki-testowania-cz-1' },
+        ]
+      },
+      {
+        text: 'Websecurity',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: 'Nagłówki HTTP', link: '/websecurity/naglowki-http' },
+          // Tutaj możesz dodać więcej artykułów dotyczących bezpieczeństwa webowego
         ]
       }
     ],
