@@ -1,8 +1,7 @@
 ![profilowe.png](https://dsc.cloud/da9e07/profilowe.png)
 <br>
-<div class="main-paragraph">Dokumentuję swoją drogę. To miejsce, w którym dzielę się wszystkim, czego się uczę.</div>
+<div class="main-paragraph">Dokumentuję swoją drogę. </div>
 <br>
-
 ## Poruszane tematy:
 
 - Perkusja
