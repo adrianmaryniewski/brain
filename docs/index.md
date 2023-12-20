@@ -1,6 +1,7 @@
 ![profilowe.png](https://dsc.cloud/da9e07/profilowe.png)
 <br>
 <div class="main-paragraph">Dokumentuję swoją drogę. </div>
+
 <br>
 ## Poruszane tematy:
 
