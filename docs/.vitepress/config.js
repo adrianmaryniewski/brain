@@ -34,7 +34,7 @@ export default defineConfig({
           { text: 'SDLC', link: '/podstawy/sdlc' },
           { text: 'Zasady efektywnego testowania', link: '/podstawy/zasady-efektywnego-testowania' },
           { text: 'Proces zgłaszania błędów w 5 krokach', link: '/podstawy/proces-zglaszania-bledow-w-5-krokach' },
-          { text: 'Nagłówki HTTP', link: '/podstawy/naglowki-http' },
+          { text: 'Nagłówki HTTP', link: '/websecurity/naglowki-http' },
           { text: 'Techniki testowania cz. 1', link: '/podstawy/techniki-testowania-cz-1' },
         ]
       }

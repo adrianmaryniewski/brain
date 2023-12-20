@@ -3,11 +3,6 @@
 <div class="main-paragraph">To miejsce, w którym dzielę się wszystkim, co wiem na temat testowania oprogramowania.</div>
 <br>
 
-<br>
-<br>
-
-<div class="ml-embedded" data-form="RwP5Ii"></div>
-
 ## Najważniejsze tematy:
 
 - Podstawy technologii
