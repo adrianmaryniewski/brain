@@ -5,14 +5,9 @@
 
 ## Najważniejsze tematy:
 
-- Podstawy technologii
-- Testowanie manualne
-- Współpraca w zespole
-- Automatyzacja testów
-- Bezpieczeństwo aplikacji
-- Testowanie API
-- Testowanie aplikacji webowych
-- Bazy danych
+- Perkusja
+- Automatyzacje ułatwiające życie
+- Cyberbezpieczeństwo
 
 ## Gdzie możesz mnie znaleźć?
 
