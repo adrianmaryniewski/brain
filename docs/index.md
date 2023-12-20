@@ -1,9 +1,9 @@
 ![profilowe.png](https://dsc.cloud/da9e07/profilowe.png)
 <br>
-<div class="main-paragraph">To miejsce, w którym dzielę się wszystkim, co wiem na temat testowania oprogramowania.</div>
+<div class="main-paragraph">Dokumentuję swoją drogę. To miejsce, w którym dzielę się wszystkim, czego się uczę.</div>
 <br>
 
-## Najważniejsze tematy:
+## Poruszane tematy:
 
 - Perkusja
 - Automatyzacje ułatwiające życie
