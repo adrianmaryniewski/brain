@@ -91,7 +91,7 @@ Priority: u=0, i
 
 Widzimy, że w nagłówku (3. linia) mamy wartość "**Admin**" ustawioną na "**false**". Z punktu widzenia osoby testującej aplikację pod kątem bezpieczeństwa, zapala się "czerwona lampka".
 
-Po zmianie parametru "false" na "true", klikamy "Forward" dopóki będziemy zalogowani. W każdym responsie, w którym mamy parametr Admin=false, zmieniamy na true. Dzięki temu będziemy  wstanie przejść do panelu administratora. Przechodzimy do przeglądarki i widzimy, że mamy do niego dostęp:
+Po zmianie parametru "false" na "true", klikamy "Forward" aż będziemy zalogowani. W każdym responsie, w którym mamy parametr Admin=false, zmieniamy na **true**. Dzięki temu będziemy w stanie przejść do panelu administratora. Przechodzimy do przeglądarki i widzimy, że mamy do niego dostęp:
 
 ![user role controlled by request parameter admin panel access](https://dsc.cloud/f62499/pb-k0x3iMgorK.png)
 
