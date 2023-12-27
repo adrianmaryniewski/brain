@@ -60,14 +60,14 @@ export default defineConfig({
           {
             text: 'Authentication (labs)',
             items: [
-              { text: 'User role controlled by request parameter', link: '/portswigger-academy/authentication/user-role-controlled-by-request-parameter' },
-              { text: 'Username enumeration via different responses', link: '/portswigger-academy/authentication/username-enumeration-via-different-responses' }
+              { text: 'User role controlled by request parameter', link: '/websecurity/portswigger-academy/authentication/user-role-controlled-by-request-parameter' },
+              { text: 'Username enumeration via different responses', link: '/websecurity/portswigger-academy/authentication/username-enumeration-via-different-responses' }
             ]
           },
           {
             text: 'Reconnaissance',
             items: [
-              { text: 'Unprotected admin functionality', link: '/portswigger-academy/reconnaissance/unprotected-admin-functionality' }
+              { text: 'Unprotected admin functionality', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality' }
             ]
           }
         ]
