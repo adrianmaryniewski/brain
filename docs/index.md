@@ -6,8 +6,9 @@
 ## Poruszane tematy:
 
 - Perkusja
-- Automatyzacje ułatwiające życie
 - Cyberbezpieczeństwo
+- Automatyzacje ułatwiające życie
+
 
 ## Gdzie możesz mnie znaleźć?
 
