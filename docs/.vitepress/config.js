@@ -61,7 +61,7 @@ export default defineConfig({
             text: 'Authentication (labs)',
             items: [
               { text: 'User role controlled by request parameter', link: '/websecurity/portswigger-academy/authentication/user-role-controlled-by-request-parameter' },
-              { text: 'Username enumeration via different responses', link: '/websecurity/portswigger-academy/authentication/username-enumeration-via-different-responses' }
+              { text: 'Username enumeration via different responses (to be continued...)', link: '/websecurity/portswigger-academy/authentication/username-enumeration-via-different-responses' }
             ]
           },
           {
