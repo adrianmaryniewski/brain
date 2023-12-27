@@ -50,7 +50,26 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Nagłówki HTTP', link: '/websecurity/naglowki-http' },
-          // Tutaj możesz dodać więcej artykułów dotyczących bezpieczeństwa webowego
+        ]
+      },
+      {
+        text: 'PortSwigger Academy',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          {
+            text: 'Authentication (labs)',
+            items: [
+              { text: 'User role controlled by request parameter', link: '/portswigger-academy/authentication/user-role-controlled-by-request-parameter' },
+              { text: 'Username enumeration via different responses', link: '/portswigger-academy/authentication/username-enumeration-via-different-responses' }
+            ]
+          },
+          {
+            text: 'Reconnaissance',
+            items: [
+              { text: 'Unprotected admin functionality', link: '/portswigger-academy/reconnaissance/unprotected-admin-functionality' }
+            ]
+          }
         ]
       }
     ],
