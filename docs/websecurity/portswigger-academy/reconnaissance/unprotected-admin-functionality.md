@@ -1,3 +1,5 @@
+# Unprotected admin functionality
+
 Link: https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality
 
 ![Lab: Unprotected admin functionality](https://dsc.cloud/f62499/pb-M0f84B976T.png)

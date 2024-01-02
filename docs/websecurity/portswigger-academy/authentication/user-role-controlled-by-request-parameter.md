@@ -1,3 +1,5 @@
+# User role controlled by request parameter
+
 Link: https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
 
 ![User role controlled by request parameter](https://dsc.cloud/f62499/pb-Q9kS4drM9Y.png)
