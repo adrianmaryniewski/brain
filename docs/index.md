@@ -1,4 +1,4 @@
-![profilowe.png](https://dsc.cloud/da9e07/profilowe.png)
+![profilowe.png](https://www.dropbox.com/scl/fi/dgyrp01lxmd9h738cqbn7/pb-JMPxLehEOq.png?rlkey=itesdjjgsuyd34gtuk4jw6v0p&raw=1)
 <br>
 <div class="main-paragraph">Dokumentuję swoją drogę.</div>
 <br>
