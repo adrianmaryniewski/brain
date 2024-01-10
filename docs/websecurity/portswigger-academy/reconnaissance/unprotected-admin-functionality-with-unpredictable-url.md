@@ -1,15 +1,14 @@
-# # Unprotected admin functionality with unpredictable URL
+# Unprotected admin functionality with unpredictable URL
 
 Link: https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality-with-unpredictable-url
 
-Drugą rzeczą jaką możemy zrobić zaraz po sprawdzeniu pliku robots.txt, jest sprawdzenie źródła strony. Po kliknięciu "Access the lab", możemy przejść np. do "My Account", kliknąć na wolnym polu prawym przyciskiem myszy i wybrać "View Page Source":
+The second thing we can do right after checking the robots.txt file is to check the source of the page. After clicking "Access the lab", we might, for example, go to "My Account", right-click on an empty field and choose "View Page Source":
 
 ![view page source](https://www.dropbox.com/scl/fi/17u2zwvei1puzydi5979a/pb-q71Rq2HElQ.png?rlkey=zuiwd91gv6ama1mocrqpqv8za&raw=1)
 
+What appears before us is the static code of the page (if we chose "Inspect", we could modify the page - a dynamic option).
 
-Naszym oczom ukaże się statyczny kod strony (jeśli wybralibyśmy "Inspect", moglibyśmy zmieniać stronę - opcja dynamiczna).
-
-Widzimy, że widnieje tam kod JavaScript, który ma w sobie ścieżkę o niecodziennej nazwie:
+We see that there is a JavaScript code that contains a path with an unusual name:
 
 ```
 /admin-cty0yq
@@ -17,24 +16,18 @@ Widzimy, że widnieje tam kod JavaScript, który ma w sobie ścieżkę o niecodz
 
 ![js code with weird path name](https://www.dropbox.com/scl/fi/r9jpggsiz4uej8xcan12l/pb-beJ8fVmna2.png?rlkey=s317kdz6wd7t2bcndjy0aygxo&raw=1)
 
-
-
-Przechodzimy zatem na taką stronę:
+So, we navigate to that page:
 
 ```
 https://0ad700bd0406d4bc82256f5a00c3008c.web-security-academy.net/admin-cty0yq
 ```
 
-Oczywiście początek adresu może się różnić.
+Of course, the beginning of the address may vary.
 
-
-Przeszliśmy do panelu administratora:
+We have entered the admin panel:
 
 ![admin panel](https://www.dropbox.com/scl/fi/a6trt3xclrve00t4gf8tr/pb-UHUeB3xTg6.png?rlkey=2htu6xq2zdyyl4xpa7vxmy9rv&raw=1)
 
-
-
-Usuwamy użytkownika carlos:
+We delete the user carlos:
 
 ![carlos deleted](https://www.dropbox.com/scl/fi/24bdj7j7ttj0cdjzdq5ae/pb-6LrjdxU3F7.png?rlkey=enteyqegutf280ohn6agizmf4&raw=1)
-

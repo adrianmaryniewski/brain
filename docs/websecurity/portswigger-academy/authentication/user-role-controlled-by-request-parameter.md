@@ -1,42 +1,40 @@
-# User role controlled by request parameter
+# User Role Controlled by Request Parameter
 
 Link: https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
 
 ![User role controlled by request parameter](https://www.dropbox.com/scl/fi/n7b4ai32pexkdx036xkho/pb-FMltvhLooJ.png?rlkey=mh8s4ok2vy3by3kxcuh4g7arh&raw=1)
 
-
-
-Po dostaniu się do "laba", widzimy sklep internetowy. Z opisu powyżej wynika, że istnieje ścieżka "***/admin***". Dopiszmy ją do adresu URL:
+Upon accessing the "lab," we see an online store. From the description above, it's clear that there is a path "***/admin***". Let's append it to the URL:
 
 https://0ac20088032ca4178199d989007300f7.web-security-academy.net/admin
 
-
-
-Otrzymujemy informację, że panel administratora jest dostępny tylko, jeśli zalogujemy się jako taki użytkownik. Brzmi logicznie:
+We receive information that the admin panel is only available if we log in as such a user. Sounds logical:
 
 ![admin interface only available if logged in as an administrator](https://www.dropbox.com/scl/fi/350ult2holkj2egjh2ozi/pb-i4X39EnFCN.png?rlkey=ghnyx5gdqq6i6z446pxzl6esk&raw=1)
 
-To, co warto zrobić przed tym testem, to wejść w zakładkę Proxy > Proxy settings:
+
+What's worth doing before this test is to go to the Proxy > Proxy settings tab:
 
 ![proxy settings](https://www.dropbox.com/scl/fi/7a3mgnigpp24quumwalss/pb-likLLahcKQ.png?rlkey=d4l2v2y0e7p0nwrhrgmkle7dp&raw=1)
 
-
-Następnie zaznaczyć opcję "Intercept requests based on the following rules" i odznaczyć cokolwiek jest zaznaczone w kolumnie "Enabled":
+Then select the "Intercept requests based on the following rules" option and uncheck whatever is selected in the "Enabled" column:
 
 ![request interception rules](https://www.dropbox.com/scl/fi/1q0fviwx7xkssfvd8e50u/pb-TZOgiVjZI5.png?rlkey=n26ck16mwevwr9m2trxzeijj9&raw=1)
 
+"To configure network traffic interception in Burp Suite, go to the "Proxy" tab, then "Proxy settings". In the "Request Interception Rules" section, uncheck all options in the 'Enabled' column. Then select the "Intercept requests based on the following rules" option. This will pause the interception process in the "Intercept" tab when you capture requests and responses, allowing for manual analysis and management of each received response."
 
-"W celu skonfigurowania przechwytywania ruchu sieciowego w Burp Suite, należy przejść do zakładki "Proxy", a następnie "Proxy settings". W sekcji "Request Interception Rules" odznacz wszystkie opcje w kolumnie 'Enabled'. Następnie zaznacz opcję "Intercept requests based on the following rules". Dzięki temu, gdy będziesz przechwytywał żądania (requesty) i ich odpowiedzi (response'y), proces przechwytywania zostanie wstrzymany w zakładce "Intercept", co pozwoli na manualną analizę i zarządzanie każdą otrzymaną odpowiedzią."
-
-
-W zakładce "Proxy" > "Intercept" klikamy "Open browser". Przechodzimy do laba. Klikamy w "My Account".
+In the "Proxy" > "Intercept" tab, click "Open browser". Navigate to the lab. Click on "My Account".
 
 ![login panel](https://www.dropbox.com/scl/fi/4k86sitsx0y5pz65m7pbk/pb-xQqRkzk7z2.png?rlkey=t68eiqo7hlt2wkm59drzuuzv5&raw=1)
 
-Upewniamy się, że mamy włączoną opcję: "Intercept is on"
+
+Make sure that the "Intercept is on" option is enabled.
 ![intercept is on](https://www.dropbox.com/scl/fi/pyd1r99surbm05etz9p7a/pb-cFMtqBCLcD.png?rlkey=57ipdmfmyt0uabpxkwyonwq27&raw=1)
 
-Logujemy się podanymi danymi (wiener:peter), aby prześledzić ruch:
+
+
+
+Log in with the given credentials (wiener:peter) to trace the traffic:
 
 ```
 POST /login HTTP/2
@@ -64,10 +62,16 @@ Priority: u=0, i
 csrf=kv22Q9hDGCvkx1Uhfd2X2T5xf4mF5tTL&username=wiener&password=peter
 ```
 
-Klikamy "Forward", aby sprawdzić kolejną odpowiedź:
+
+
+
+Click "Forward" to check the next response:
 ![forward button](https://www.dropbox.com/scl/fi/1wq704xtz39emcvz6lhvt/pb-3yFiKOhGGk.png?rlkey=xqxkr3yftdehlweu1ljfsu0pt&raw=1)
 
-Wygląda ona następująco:
+
+
+
+It looks like this:
 ```
 GET /my-account?id=wiener HTTP/2
 Host: 0a0a00e3041ea9d386f88a1b002c00c6.web-security-academy.net
@@ -91,16 +95,15 @@ Priority: u=0, i
 
 ```
 
-Widzimy, że w nagłówku (3. linia) mamy wartość "**Admin**" ustawioną na "**false**". Z punktu widzenia osoby testującej aplikację pod kątem bezpieczeństwa, zapala się "czerwona lampka".
+We see that in the header (3rd line) we have the value "**Admin**" set to "**false**". From the perspective of someone testing the application for security, a "red light" goes on.
 
-Po zmianie parametru "false" na "true", klikamy "Forward" aż będziemy zalogowani. W każdym responsie, w którym mamy parametr Admin=false, zmieniamy na **true**. Dzięki temu będziemy w stanie przejść do panelu administratora. Przechodzimy do przeglądarki i widzimy, że mamy do niego dostęp:
+After changing the "false" parameter to "true", click "Forward" until we are logged in. In every response where we have the Admin=false parameter, we change it to **true**. This will allow us to access the admin panel. We go to the browser and see that we have access to it:
 
 ![user role controlled by request parameter admin panel access](https://www.dropbox.com/scl/fi/r9fy2dn54g3tanx4qu8j8/pb-sEWiT2Nsgi.png?rlkey=bprwihp1z4mx241wai75qkmgh&raw=1)
 
-
-Przechodzimy do admin panelu:
+We go to the admin panel:
 ![carlos admin panel](https://www.dropbox.com/scl/fi/qqmrkge4lus7ftu0di05t/pb-LXhlL8iwfZ.png?rlkey=j7qvc1cblmvttge0j34wjw78c&raw=1)
 
+We delete the user carlos:
 
-Usuwamy użytkownika carlos:
 ![user role controlled by request parameter carlos deleted](https://www.dropbox.com/scl/fi/8wkjok0zd5865w5zpr522/pb-sF8Om3hHmH.png?rlkey=dakv6pgoepx3c220ls8efc1zu&raw=1)

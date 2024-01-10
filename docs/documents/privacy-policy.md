@@ -86,16 +86,19 @@ przetwarzanie danych osobowych odbywa się na podstawie prawnie uzasadnionego in
 dane osobowe przetwarzane są na potrzeby marketingu bezpośredniego, w tym są profilowane dla tego celu.
 Z kolei w odniesieniu do żądania ograniczenia przetwarzania danych informujemy, że przysługuje ono gdy:
 
-kwestionujesz prawidłowość danych osobowych – na okres pozwalający sprawdzić nam prawidłowość tych danych;
-przetwarzanie jest niezgodne z prawem, oraz sprzeciwiasz się usunięciu danych osobowych, żądając w zamian ograniczenia ich wykorzystywania;
-nie potrzebujemy już danych osobowych do celów przetwarzania, ale są one potrzebne Tobie, do ustalenia, dochodzenia lub obrony roszczeń;
-wniosłeś sprzeciw na mocy art. 21 ust. 1 RODO wobec przetwarzania danych przez nas do czasu stwierdzenia, czy prawnie uzasadnione podstawy po naszej stronie są nadrzędne wobec Twoich podstaw sprzeciwu.
+- kwestionujesz prawidłowość danych osobowych – na okres pozwalający sprawdzić nam prawidłowość tych danych;
+- przetwarzanie jest niezgodne z prawem, oraz sprzeciwiasz się usunięciu danych osobowych, żądając w zamian ograniczenia ich wykorzystywania;
+- nie potrzebujemy już danych osobowych do celów przetwarzania, ale są one potrzebne Tobie, do ustalenia, dochodzenia lub obrony roszczeń;
+- wniosłeś sprzeciw na mocy art. 21 ust. 1 RODO wobec przetwarzania danych przez nas do czasu stwierdzenia, czy prawnie uzasadnione podstawy po naszej stronie są nadrzędne wobec Twoich podstaw sprzeciwu.
+
 E. Prawo do przenoszenia danych
+
 Masz prawo do przeniesienie dotyczących Ciebie danych oraz masz prawo przesłania tych danych za naszym pośrednictwem innemu administratorowi, jeżeli:
 
-przetwarzanie odbywa się na podstawie zgody, w myśl art. 6 ust. 1 lit. a RODO lub art. 9 ust. 2 lit. a RODO; lub
-przetwarzanie odbywa się na podstawie umowy, w myśl art. 6 ust. 1 lit. b RODO; oraz
-przetwarzanie odbywa się w sposób zautomatyzowany.
+- przetwarzanie odbywa się na podstawie zgody, w myśl art. 6 ust. 1 lit. a RODO lub art. 9 ust. 2 lit. a RODO; lub
+- przetwarzanie odbywa się na podstawie umowy, w myśl art. 6 ust. 1 lit. b RODO; oraz
+- przetwarzanie odbywa się w sposób zautomatyzowany.
+
 Wykonując prawo do przenoszenia danych możesz żądać, by dane osobowe zostały przesłane przez nas bezpośrednio innemu administratorowi, o ile jest to technicznie możliwe.
 
 Prawo do przenoszenia danych nie może niekorzystnie wpływać na prawa i wolności innych osób. W przypadku chęci realizacji tych praw, należy wysłać do nas wiadomość e-mail.
@@ -118,13 +121,14 @@ Pliki cookies techniczne – są niezbędne, aby strona internetowa mogła prawi
 
 Pliki cookies wykorzystywane są aby:
 
-zapewnić odpowiednie wyświetlanie strony internetowej – w zależności od tego, z jakiego urządzenia korzystasz,
-dostosowywać treść do Twoich wyborów mających techniczne znaczenie dla działania strony internetowej, np. wybranego języka,
-zapamiętać, czy wyrażano zgodę na wyświetlanie niektórych treści.
+- zapewnić odpowiednie wyświetlanie strony internetowej – w zależności od tego, z jakiego urządzenia korzystasz,
+- dostosowywać treść do Twoich wyborów mających techniczne znaczenie dla działania strony internetowej, np. wybranego języka,
+- zapamiętać, czy wyrażano zgodę na wyświetlanie niektórych treści.
+
 Pliki cookies analityczne – są niezbędne, aby rozliczać się z partnerami biznesowymi lub mierzyć efektywność działań marketingowych bez identyfikacji danych osobowych oraz ulepszać funkcjonowanie strony internetowej. Można je wykorzystywać, aby:
 
-badać statystyki dotyczące ruchu na stronie internetowej oraz sprawdzać źródła ruchu (kierunki przekierowania),
-wykrywać różnego rodzaju nadużycia np. sztuczny ruch internetowy (boty).
+- badać statystyki dotyczące ruchu na stronie internetowej oraz sprawdzać źródła ruchu (kierunki przekierowania),
+- wykrywać różnego rodzaju nadużycia np. sztuczny ruch internetowy (boty).
 
 3.3. Jak długo korzysta się z plików cookies?
 Pliki cookies sesyjne – pozostają na Twoim urządzeniu, aż do opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). Są to przede wszystkim pliki cookies techniczne.
