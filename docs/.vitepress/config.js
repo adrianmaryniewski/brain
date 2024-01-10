@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   title: "blog.maryniewski.pl",
-  description: "Wszystko, czego się uczę.",
+  description: "Everything that I learn.",
   head: [
     ['script', {}, `
       (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
@@ -17,31 +17,31 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Strona Główna', link: '/index' },
-      { text: 'Polityka prywatności', link: '/dokumenty/polityka-prywatnosci' }
+      { text: 'Home Page', link: '/index' },
+      { text: 'Privacy Policy', link: '/documents/privacy-policy' }
     ],
 
     sidebar: [
       {
-        text: 'Strona główna',
+        text: 'Home Page',
         collapsible: true,
         collapsed: true,
         items: [
-          { text: 'Witaj!', link: '/index' },
+          { text: 'Hello there', link: '/index' },
         ]
       },
       {
-        text: 'Podstawy',
+        text: 'Basics',
         collapsible: true,
         collapsed: true,
         items: [
-          { text: 'Gdzie ćwiczyć testowanie?', link: '/podstawy/gdzie-cwiczyc-testowanie' },
-          { text: 'Za co płacą testerom?', link: '/podstawy/za-co-placa-testerom' },
-          { text: 'Rola testerów w zależności od kompetencji.', link: '/podstawy/rola-testerow-w-zaleznosci-od-kompetencji' },
-          { text: 'SDLC', link: '/podstawy/sdlc' },
-          { text: 'Zasady efektywnego testowania', link: '/podstawy/zasady-efektywnego-testowania' },
-          { text: 'Proces zgłaszania błędów w 5 krokach', link: '/podstawy/proces-zglaszania-bledow-w-5-krokach' },
-          { text: 'Techniki testowania cz. 1', link: '/podstawy/techniki-testowania-cz-1' },
+          { text: 'Bug Reporting Process', link: '/basics/bug-reporting-process' },
+          { text: 'Levels and Types of Testing', link: '/basics/levels-and-types-of-testing' },
+          { text: 'The Role of Software Testers at Different Competency Levels.', link: '/basics/role-of-software-testers-at-different-competency-levels' },
+          { text: 'Rules of Effective Testing', link: '/basics/rules-of-effective-testing' },
+          { text: 'Software Testing Techniques part 1', link: '/basics/software-testing-techniques-1' },
+          { text: 'What do Software Testers Get Paid For?', link: '/basics/what-do-software-testers-get-paid-for' },
+          { text: 'Ways to Gain an Experience as a Beginner Tester', link: '/basics/where-can-i-gain-experience' }
         ]
       },
       {
@@ -49,7 +49,7 @@ export default defineConfig({
         collapsible: true,
         collapsed: true,
         items: [
-          { text: 'Nagłówki HTTP', link: '/websecurity/naglowki-http' },
+          { text: 'HTTP Headers', link: '/websecurity/http-headers' },
         ]
       },
       {
@@ -70,7 +70,8 @@ export default defineConfig({
           {
             text: 'Reconnaissance',
             items: [
-              { text: 'Unprotected admin functionality', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality' }
+              { text: 'Unprotected admin functionality', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality' },
+              { text: 'Unprotected admin functionality with unpredictable URL', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality-with-unpredictable-url' }
             ]
           }
         ]
