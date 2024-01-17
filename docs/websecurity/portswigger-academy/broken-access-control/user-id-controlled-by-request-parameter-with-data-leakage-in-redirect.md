@@ -1,4 +1,3 @@
-
 # User ID Controlled by Request Parameter with Data Leakage in Redirect
 
 Link: [https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect)

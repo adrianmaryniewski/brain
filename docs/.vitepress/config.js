@@ -68,7 +68,14 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Reconnaissance',
+            text: 'Broken Access Control (labs)',
+            items: [
+              { text: 'User ID Controlled by Request Parameter with Data Leakage in Redirect', link: 'websecurity/portswigger-academy/broken-access-control/user-id-controlled-by-request-parameter-with-data-leakage-in-redirect' },
+              { text: 'User ID Controlled by Request Parameter with Password Disclosure (ENG | PL)', link: 'websecurity/portswigger-academy/broken-access-control/user-id-controlled-by-request-parameter-with-password-disclosure' }
+            ]
+          },
+          {
+            text: 'Reconnaissance (labs)',
             items: [
               { text: 'Unprotected admin functionality', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality' },
               { text: 'Unprotected admin functionality with unpredictable URL', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality-with-unpredictable-url' }
