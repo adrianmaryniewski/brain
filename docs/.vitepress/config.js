@@ -71,7 +71,8 @@ export default defineConfig({
             text: 'Broken Access Control (labs)',
             items: [
               { text: 'User ID Controlled by Request Parameter with Data Leakage in Redirect', link: '/websecurity/portswigger-academy/broken-access-control/user-id-controlled-by-request-parameter-with-data-leakage-in-redirect' },
-              { text: 'User ID Controlled by Request Parameter with Password Disclosure (ENG | PL)', link: '/websecurity/portswigger-academy/broken-access-control/user-id-controlled-by-request-parameter-with-password-disclosure' }
+              { text: 'User ID Controlled by Request Parameter with Password Disclosure (ENG | PL)', link: '/websecurity/portswigger-academy/broken-access-control/user-id-controlled-by-request-parameter-with-password-disclosure' },
+              { text: 'Insecure Direct Object References (ENG | PL)', link: '/websecurity/portswigger-academy/broken-access-control/insecure-direct-object-references' }
             ]
           },
           {
