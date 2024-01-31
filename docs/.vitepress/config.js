@@ -80,7 +80,7 @@ export default defineConfig({
             items: [
               { text: 'Blind OS command injection with time delays (ENG | PL)', link: '/websecurity/portswigger-academy/command-injection/blind-os-command-injection-with-time-delays' }
             ]
-          }
+          },
           {
             text: 'Reconnaissance (labs)',
             items: [
