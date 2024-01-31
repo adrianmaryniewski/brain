@@ -76,6 +76,12 @@ export default defineConfig({
             ]
           },
           {
+            text: 'OS Command Injection (labs)',
+            items: [
+              { text: 'Blind OS command injection with time delays (ENG | PL)', link: '/websecurity/portswigger-academy/command-injection/blind-os-command-injection-with-time-delays' }
+            ]
+          }
+          {
             text: 'Reconnaissance (labs)',
             items: [
               { text: 'Unprotected admin functionality', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality' },
