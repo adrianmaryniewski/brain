@@ -78,6 +78,7 @@ export default defineConfig({
           {
             text: 'OS Command Injection (labs)',
             items: [
+              { text: 'Blind OS command injection with output redirection (ENG | PL)', link: '/websecurity/portswigger-academy/command-injection/blind-os-command-injection-with-output-redirection' },
               { text: 'Blind OS command injection with time delays (ENG | PL)', link: '/websecurity/portswigger-academy/command-injection/blind-os-command-injection-with-time-delays' }
             ]
           },
