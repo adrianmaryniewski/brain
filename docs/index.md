@@ -5,7 +5,6 @@
 
 ## Topics covered:
 
-- Drums
 - Cybersecurity
 - Life simplifying automations
 
