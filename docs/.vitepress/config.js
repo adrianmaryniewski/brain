@@ -83,6 +83,13 @@ export default defineConfig({
             ]
           },
           {
+            text: 'File Upload Vulnerabilities (labs)',
+            items: [
+              { text: 'Web Shell Upload via Content-Type Restriction Bypass (ENG | PL)', link: '/websecurity/portswigger-academy/file-upload-vulnerabilities/web-shell-upload-via-content-type-restriction-bypass' },
+              { text: 'Web Shell Upload via Path Traversal (ENG | PL)', link: '/websecurity/portswigger-academy/file-upload-vulnerabilities/web-shell-upload-via-path-traversal' }
+            ]
+          },
+          {
             text: 'Reconnaissance (labs)',
             items: [
               { text: 'Unprotected admin functionality', link: '/websecurity/portswigger-academy/reconnaissance/unprotected-admin-functionality' },
